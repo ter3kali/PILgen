@@ -1,0 +1,24 @@
+{
+ "_note": "NSFW library for DETECTION/flagging only. Audit and extend for your platform. Trailing * = prefix match. Categories: sexual_explicit/nudity/nonconsensual -> flag; suggestive -> review; sensitive -> allow (reported only); minor/age_ambiguous -> escalate to block when combined with sexual terms.",
+ "sexual_explicit": [
+
+ ],
+ "nudity": [
+
+ ],
+ "nonconsensual": [
+
+ ],
+ "suggestive": [
+
+ ],
+ "sensitive": [
+
+ ],
+ "minor": [
+
+ ],
+ "age_ambiguous": [
+
+ ]
+}

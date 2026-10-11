@@ -1,0 +1,4 @@
+numpy>=1.22
+Pillow>=9.0
+# optional, only for `--wd14` mode:
+# onnxruntime
