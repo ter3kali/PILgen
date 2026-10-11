@@ -1,4 +1,4 @@
-# shape_prompt_ai
+# PILgen
 
 An offline toolkit, in plain Python + NumPy + Pillow (no PyTorch, no cloud), that does two connected things:
 
